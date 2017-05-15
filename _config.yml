@@ -69,5 +69,5 @@ theme: TKL
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/lidulibai/lidulibai.github.io.git
+  repo: git@github.com:lidulibai/lidulibai.github.io.git
   branch: master
