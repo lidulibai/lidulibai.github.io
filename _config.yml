@@ -7,14 +7,14 @@ title: lidulibai's blog
 subtitle: love it just do it!
 description:
 author: lidulibai
-language:
-timezone:
+language: zh-C
+timezone: "Asia/Shanghai"
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: http://yoursite.com
 root: /
-permalink: :year/:month/:day/:title/
+# permalink: :year/:month/:day/:title/
 permalink_defaults:
 
 # Directory
